@@ -1,0 +1,215 @@
+ID,Age,COLORAM,COLORPM,Comments_COG,Comments_Sch,dehydAM,dehydPM,EAUJOUR2,Grade,Intervention,LCS,LCC,LCI,LCX,IDC,IDI,IDX,IDS,IIC,III,IIX,IIS,NFC,NFM,NFX,NRC,NRM,NRX,LT,LTM,LTE,LTX,P105,P106,P107,P108,Pres1,Pres2,school,sex,SGAM,SGPM,Test1,Test2,Thirsty,Temp1,Humid1,Temp2,Humid2,visit,water
+1007,12,4,2,,Deworming done by CAP,0,0,,6,Day 2,10,10,0,,3,0,,3,1,0,,1,6,4,,6,5,,3,3,0,,0,0,0,,x,x,A,f,1.009,1.003,B2,B1,1,,,,,1,0
+1007,12,2,1,NR: Did not reverse digits; Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,21,21,0,,4,0,,4,1,1,,0,5,4,,0,0,2,12,13,1,,0,1,0,,x,x,A,f,1.007,1,B2,B1,5,,,,,2,1
+1008,11,2,3,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,27,27,0,,2,0,,2,3,0,,3,7,5,,7,5,1,11,11,0,,1,1,1,"2,5",x,x,A,f,1.007,1.004,A1,A2,3,,,,,2,1
+1008,11,2,3,Reversed line direction,Deworming done by CAP,0,1,,6,Day 2,18,18,0,,2,1,,1,2,2,,0,4,3,,1,2,,8,8,0,R,1,1,1,"2,",x,x,A,f,1.004,1.012,A1,A2,3,,,,,1,0
+1009,11,1,1,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,21,21,0,,3,0,,3,2,0,,2,7,5,,3,3,1,22,23,1,,1,1,1,"2,5",x,x,A,m,1.002,1,B2,B1,2,,,,,2,1
+1009,11,1,2,Selected wrong targets,Deworming done by CAP,0,1,,6,Day 2,-14,0,14,1,1,0,,1,2,0,,2,5,4,,6,5,,9,10,1,,1,1,1,",5",x,x,A,m,1.002,1.01,B2,B1,1,,,,,1,0
+1010,13,1,6,,Deworming done by CAP,0,1,,6,Day 2,10,10,0,,1,0,,1,2,1,,1,6,4,,6,5,,4,4,0,,2,1,1,",5",x,x,A,f,1.001,1.013,A1,A2,1,,,,,1,0
+1010,13,2,6,NR: Numbers read in reverse order,Deworming done by CAP,0,1,,6,Day 2,23,23,0,,4,0,,4,2,0,,2,5,4,,4,3,1,12,13,1,,2,1,1,",5",x,x,A,f,1.003,1.015,A1,A2,5,,,,,2,1
+1011,11,2,3,(NR) Didn't reverse numbers,Deworming done by CAP,0,1,,6,Day 2,19,19,0,,2,0,,2,1,2,,-1,6,4,,0,0,2,17,19,2,,1,1,1,"1,5,6",x,x,A,m,1.007,1.018,A2,A1,1,,,,,1,0
+1011,11,2,6,NR: Numbers read in reverse order,Deworming done by CAP,1,1,,6,Day 2,34,34,0,,3,0,,3,3,0,,3,4,5,,4,5,1,18,20,2,,1,1,1,"2,5",x,x,A,m,1.021,1.016,A2,A1,3,,,,,2,1
+1012,13,2,4,(NR) Didn't reverse numbers,Deworming done by CAP,0,1,,6,Day 2,22,23,1,,6,2,,4,3,1,,2,3,4,,1,2,2,24,29,5,,1,1,1,"2,5",x,x,A,m,1.008,1.011,B2,B1,1,,,,,1,0
+1012,13,1,4,NR: Numbers read in reverse order; LT: Reversed line,Deworming done by CAP,0,1,,6,Day 2,32,32,0,,7,1,,6,3,0,,3,6,4,,4,4,1,15,16,1,R,1,1,1,"2,6",x,x,A,m,1.003,1.012,B2,B1,5,,,,,2,1
+1013,11,1,1,(NR) Didn't reverse numbers,Deworming done by CAP,0,0,,6,Day 2,6,6,0,,2,0,,2,3,0,,3,5,4,,0,0,2,26,28,2,,1,1,1,"1,2,5",x,x,A,m,1,1,B1,B2,1,,,,,1,0
+1013,11,2,2,NR: Numbers read in reverse order,Deworming done by CAP,1,0,,6,Day 2,13,13,0,,2,0,,2,5,0,,5,7,5,,8,5,1,27,29,2,,1,1,1,"1,2,5",x,x,A,m,1.012,1.001,B1,B2,1,,,,,2,1
+1014,13,3,,,Deworming done by CAP,0,1,,6,Day 2,11,11,0,,1,0,,1,2,0,,2,5,4,,1,2,,7,7,0,,1,1,1,"1,2,5",x,x,A,f,1.004,1.016,B2,B1,1,,,,,1,0
+1014,13,2,3,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,19,19,0,,2,0,,2,2,0,,2,6,5,,4,5,1,9,9,0,,1,1,1,"2,5",x,x,A,f,1.009,1.006,B2,B1,4,,,,,2,1
+1015,11,1,3,NR: Numbers read in reverse order,Deworming done by CAP,0,1,,6,Day 2,27,27,0,,3,0,,3,3,0,,3,6,4,,6,5,1,6,8,2,,2,1,1,"2,5",x,x,A,m,1.001,1.014,A1,A2,4,,,,,2,1
+1015,11,3,6,(NR) Didn't reverse numbers,Deworming done by CAP,1,1,,6,Day 2,24,24,0,,2,0,,2,3,0,,3,4,4,,1,3,2,10,10,0,,2,1,1,"2,5",x,x,A,m,1.015,1.019,A1,A2,1,,,,,1,0
+1016,11,2,2,NR: Numbers read in reverse order,Deworming done by CAP,1,0,,6,Day 2,29,29,0,,3,0,,3,3,1,,2,6,4,,1,2,1,23,25,2,,1,1,0,,x,x,A,f,1.014,1.003,A2,A1,5,,,,,2,1
+1016,11,3,4,,Deworming done by CAP,0,1,,6,Day 2,16,16,0,,2,0,,2,2,1,,1,4,4,,6,4,,24,24,0,,1,1,1,"1,5",x,x,A,f,1.005,1.015,A2,A1,1,,,,,1,0
+1017,11,1,3,NR: Numbers read in reverse order,Deworming done by CAP,0,1,,6,Day 2,34,34,0,,4,0,,4,2,0,,2,6,5,,3,3,1,20,21,1,,1,1,0,,x,x,A,m,1.008,1.012,B1,B2,4,,,,,2,1
+1017,11,3,3,,Deworming done by CAP,0,1,,6,Day 2,25,25,0,,0,2,X,-2,4,0,,4,6,5,,7,5,,20,21,1,,1,1,1,"1,2,6",x,x,A,m,1.007,1.015,B1,B2,2,,,,,1,0
+1018,13,3,4,(NR) Didn't reverse numbers,Deworming done by CAP,1,1,,6,Day 2,14,14,0,,3,1,,2,1,2,,-1,4,4,,1,2,2,2,2,0,,2,1,0,,x,x,A,m,1.011,1.011,A1,A2,1,,,,,1,0
+1018,13,1,1,NR: Numbers read in reverse order; LT: Reversed line,Deworming done by CAP,0,0,,6,Day 2,25,25,0,,5,1,,4,4,0,,4,4,3,,4,5,1,7,8,1,R,2,1,1,"2,5",x,x,A,m,1.003,1,A1,A2,4,,,,,2,1
+1019,13,1,4,(NR) Didn't reverse numbers,Deworming done by CAP,0,1,,6,Day 2,15,15,0,,1,2,,-1,2,0,,2,5,4,,1,2,2,8,8,0,,1,1,1,",5",x,x,A,f,1.001,1.015,A2,A1,1,,,,,1,0
+1019,13,2,2,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,34,34,0,,2,0,,2,2,1,,1,6,4,,4,3,1,13,13,0,,1,1,1,"1,5",x,x,A,f,1.005,1.002,A2,A1,3,,,,,2,1
+1020,11,1,2,(NR) Didn't reverse numbers,Deworming done by CAP,0,0,,6,Day 2,24,24,0,,3,0,,3,2,0,,2,6,5,,0,0,2,17,17,0,,1,1,1,",5",x,x,A,f,1.004,1.008,B1,B2,1,,,,,1,0
+1020,11,2,3,NR: Numbers read in reverse order,Deworming done by CAP,0,1,,6,Day 2,36,36,0,,3,0,,3,3,0,,3,6,4,,3,3,1,18,19,1,,1,1,1,",5",x,x,A,f,1.004,1.013,B1,B2,1,,,,,2,1
+1021,11,1,3,,Deworming done by CAP,0,1,,6,Day 2,18,18,0,,1,1,,0,2,0,,2,4,3,,4,5,,10,10,0,,1,1,1,"2,5",x,x,A,f,1.005,1.016,B2,B1,5,,,,,1,0
+1021,11,1,1,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,28,28,0,,3,2,,1,4,1,,3,4,4,,3,3,1,15,17,2,,1,1,1,",5",x,x,A,f,1.002,1,B2,B1,2,,,,,2,1
+1022,13,2,1,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,28,28,0,,1,0,,1,3,0,,3,4,4,,5,4,1,14,15,1,,2,1,1,"1,5",x,x,A,f,1.004,1,A1,A2,1,,,,,2,1
+1022,13,1,1,(NR) Didn't reverse numbers; Reversed line direction,Deworming done by CAP,0,0,,6,Day 2,21,21,0,,2,0,,2,0,2,X,-2,3,3,,0,0,2,14,15,1,R,2,1,1,",5",x,x,A,f,1,1.003,A1,A2,1,,,,,1,0
+1023,11,2,2,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,18,18,0,,3,0,,3,2,1,,1,6,4,,3,3,1,5,5,0,,2,1,1,"2,5",x,x,A,f,1.005,1.001,A2,A1,3,,,,,2,1
+1023,11,3,6,Circled entire image (ID),Deworming done by CAP,1,1,,6,Day 2,14,14,0,,0,0,X,0,2,0,,2,5,5,,5,4,,4,4,0,,2,1,1,"1,2,5",x,x,A,f,1.01,1.02,A2,A1,4,,,,,1,0
+1024,10,2,2,NR: Numbers read in reverse order,Deworming done by CAP,0,0,,6,Day 2,24,24,0,,2,0,,2,2,1,,1,5,4,,4,4,1,12,15,3,,1,1,1,",2",x,x,A,f,1.006,1,B1,B2,2,,,,,2,1
+1024,10,2,1,(NR) Didn't reverse numbers,Deworming done by CAP,0,0,,6,Day 2,11,11,0,,1,0,,1,2,0,,2,5,4,,1,4,2,8,8,0,,1,1,1,",2",x,x,A,f,1.009,1.006,B1,B2,5,,,,,1,0
+1027,11,2,6,NR: Numbers read in reverse order; LT: Reversed line,Deworming done by CAP,0,0,,6,Day 2,10,10,0,,4,2,,2,2,2,,0,6,4,,4,4,1,24,24,0,R,1,1,1,"1,2,5",x,x,A,f,1.007,1.009,A1,A2,5,,,,,2,1
+1027,11,2,3,(NR) Didn't reverse numbers,Deworming done by CAP,0,0,,6,Day 2,9,9,0,,4,0,,4,2,2,,0,0,5,,0,0,2,27,29,2,,1,1,1,"2,5",x,x,A,f,1.004,1.008,A1,A2,1,,,,,1,0
+1035,,3,3,,Deworming done by CAP,0,1,,5,Day 2,23,23,0,,1,1,,0,2,0,,2,4,3,,5,5,,15,15,0,,1,1,0,,x,x,A,f,1.009,1.019,A2,A1,1,,,,,1,0
+1035,,2,7,,Deworming done by CAP,0,1,,5,Day 2,31,31,0,,4,0,,4,2,1,,1,2,2,,2,2,,14,15,1,,1,1,1,",5",x,x,A,f,1.007,1.022,A2,A1,5,,,,,2,1
+1036,,4,4,,Deworming done by CAP,1,1,,5,Day 2,34,34,0,,3,0,,3,2,2,,0,4,3,,4,3,,19,20,1,,1,0,0,,x,x,A,,1.012,1.018,B1,B2,5,,,,,1,0
+1036,,2,1,,Deworming done by CAP,0,0,,5,Day 2,31,31,0,,2,3,,-1,3,1,,2,4,3,,3,3,,19,19,0,,1,1,1,"2,5",x,x,A,,1.009,1,B1,B2,1,,,,,2,1
+1037,,3,4,,Deworming done by CAP,1,1,,5,Day 2,12,12,0,,2,1,,1,4,0,,4,6,4,,4,4,,28,29,1,,1,0,0,,x,x,A,,1.01,1.02,B2,B1,1,,,,,1,0
+1037,,3,4,,Deworming done by CAP,1,1,,5,Day 2,32,32,0,,4,0,,4,2,2,,0,4,3,,4,3,,14,14,0,,1,1,0,,x,x,A,,1.012,1.016,B2,B1,5,,,,,2,1
+1039,,2,1,,Deworming done by CAP,0,0,,5,Day 2,38,38,0,,4,0,,4,5,0,,5,4,3,,3,3,,18,18,0,,1,1,1,",5",x,x,A,f,1.003,1,A2,A1,5,,,,,2,1
+1039,,2,3,,Deworming done by CAP,0,0,,5,Day 2,23,23,0,,2,0,,2,3,0,,3,6,5,,2,3,,16,16,0,,1,0,1,",5",x,x,A,f,1.004,1.009,A2,A1,5,,,,,1,0
+1040,,2,4,,Deworming done by CAP,0,1,,5,Day 2,20,20,0,,4,0,,4,2,1,,1,4,3,,3,3,,24,25,1,,1,0,1,",5",x,x,A,,1.001,1.018,B1,B2,1,,,,,1,0
+1040,,2,6,,Deworming done by CAP,0,1,,5,Day 2,28,28,0,,3,0,,3,2,1,,1,4,3,,3,3,,20,20,0,,1,1,1,"2,5",x,x,A,,1.001,1.01,B1,B2,5,,,,,2,1
+1041,,1,6,,Deworming done by CAP,0,1,,5,Day 2,34,34,0,,3,0,,3,5,1,,4,5,4,,4,3,,29,29,0,,1,0,1,",5",x,x,A,,1,1.014,B2,B1,2,,,,,1,0
+1041,,1,1,,Deworming done by CAP,0,0,,5,Day 2,36,36,0,,5,0,,5,4,0,,4,6,5,,5,4,,27,28,1,,1,1,1,"2,5",x,x,A,,1,1,B2,B1,4,,,,,2,1
+1042,,3,6,,Deworming done by CAP,1,1,,5,Day 2,30,30,0,,2,0,,2,3,0,,3,6,4,,3,3,,23,28,5,,1,1,1,"1,2",x,x,A,f,1.012,1.017,A1,A2,1,,,,,2,1
+1042,,2,4,(NR) Didn't reverse numbers,Deworming done by CAP,0,0,,5,Day 2,29,29,0,,1,0,,1,1,1,,0,6,5,,0,0,2,18,28,10,,1,1,1,"2,5",x,x,A,f,1.001,1.009,A1,A2,3,,,,,1,0
+1043,,3,4,(NR) Didn't reverse numbers,Deworming done by CAP,0,1,,5,Day 2,18,18,0,,0,0,,0,1,0,,1,6,4,,0,0,2,25,28,3,,1,0,1,",2",x,x,A,,1.008,1.014,A2,A1,4,,,,,1,0
+1043,,3,1,NR: Did not reverse digits,Deworming done by CAP,1,0,,5,Day 2,20,20,0,,1,0,,1,2,0,,2,5,4,,0,0,2,12,12,0,,1,1,1,",2",x,x,A,,1.012,1,A2,A1,5,,,,,2,1
+1044,,6,7,,Deworming done by CAP,1,1,,5,Day 2,32,32,0,,3,0,,3,3,0,,3,6,5,,2,2,,17,17,0,,1,1,1,",1",x,x,A,,1.019,1.022,B1,B2,5,,,,,2,1
+1044,,6,2,Often forgot to reverse digits (NR); Reversed line direction (LT),Deworming done by CAP,1,0,,5,Day 2,30,30,0,,2,0,,2,2,0,,2,3,3,,2,5,2,14,15,1,R,1,1,1,",5",x,x,A,,1.015,1.007,B1,B2,5,,,,,1,0
+1045,,3,6,,Deworming done by CAP,1,1,,5,Day 2,29,29,0,,6,1,,5,4,2,,2,6,4,,2,2,,8,8,0,,1,1,1,"2,5",x,x,A,,1.018,1.015,B2,B1,3,,,,,2,1
+1045,,2,6,Reversed line direction,Deworming done by CAP,1,1,,5,Day 2,25,25,0,,1,1,,0,4,0,,4,6,4,,2,3,,18,20,2,R,1,1,1,"2,5",x,x,A,,1.01,1.022,B2,B1,1,,,,,1,0
+1046,,1,3,(LC) Cancelled Vs and Us; (LT) traced outside of lines,Deworming done by CAP,0,1,,5,Day 2,-8,3,11,1,2,1,,1,2,1,,1,3,3,,1,2,,,,,X,1,1,1,",5",x,x,A,,1.001,1.017,A1,A2,5,,,,,1,0
+1046,,2,4,"LC: Cancelled V's, U's; LT: Reversed line",Deworming done by CAP,0,1,,5,Day 2,-14,9,23,1,3,1,,2,5,0,,5,3,3,,2,2,,12,12,0,R,1,1,1,",5",x,x,A,,1.004,1.013,A1,A2,5,,,,,2,1
+1047,,1,6,,Deworming done by CAP,0,1,,5,Day 2,30,30,0,,2,0,,2,2,1,,1,4,4,,5,5,,18,18,0,,2,0,1,",2",x,x,A,,1.004,1.021,A2,A1,1,,,,,1,0
+1047,,1,2,,Deworming done by CAP,0,0,,5,Day 2,33,33,0,,2,0,,2,4,0,,4,6,5,,1,2,,14,14,0,,2,1,1,",2",x,x,A,,1.001,1,A2,A1,1,,,,,2,1
+1048,,4,2,,Deworming done by CAP,0,0,,5,Day 2,25,25,0,,4,1,,3,1,1,,0,4,4,,4,3,,29,29,0,,0,0,1,",5",x,x,A,f,1.007,1.003,B1,B2,1,,,,,1,0
+1048,,2,4,,Deworming done by CAP,1,1,,5,Day 2,27,27,0,,5,4,,1,4,1,,3,5,4,,4,4,,12,12,0,,0,1,1,"1,2",x,x,A,f,1.011,1.011,B1,B2,5,,,,,2,1
+1049,,1,1,,Deworming done by CAP,0,0,,5,Day 2,29,29,0,,3,1,,2,2,0,,2,7,5,,6,4,,27,28,1,,1,1,1,",2",x,x,A,,1.001,1,B2,B1,1,,,,,2,1
+1049,,3,3,,Deworming done by CAP,1,0,,5,Day 2,22,22,0,,2,2,,0,3,1,,2,1,2,,3,3,,23,24,1,,1,0,0,,x,x,A,,1.011,1.003,B2,B1,1,,,,,1,0
+1050,,1,2,,Deworming done by CAP,0,0,,5,Day 2,26,26,0,,4,0,,4,2,0,,2,5,5,,6,5,,17,17,0,,1,1,1,"1,2,5",x,x,A,,1.001,1,A1,A2,5,,,,,2,1
+1050,,1,4,Reversed line direction,Deworming done by CAP,0,1,,5,Day 2,14,14,0,,3,0,,3,0,1,,-1,6,5,,5,4,,18,18,0,R,1,1,1,",2",x,x,A,,1,1.011,A1,A2,5,,,,,1,0
+1051,,1,2,,Deworming done by CAP,0,0,,5,Day 2,32,32,0,,3,0,,3,2,1,,1,3,3,,5,4,,10,10,0,,1,1,1,",2",x,x,A,,1.003,1.002,A2,A1,4,,,,,2,1
+1051,,3,3,,Deworming done by CAP,0,1,,5,Day 2,21,21,0,,1,0,,1,2,0,,2,3,3,,1,2,,11,11,0,,1,1,1,"1,2,5",x,x,A,,1.005,1.015,A2,A1,2,,,,,1,0
+1052,,6,7,Reversed line direction,Deworming done by CAP,0,1,,5,Day 2,29,29,0,,4,0,,4,1,0,,1,6,5,,6,5,,17,19,2,R,1,1,1,"1,2,5",x,x,A,,1.009,1.016,B1,B2,5,,,,,1,0
+1052,,4,4,,Deworming done by CAP,1,1,,5,Day 2,33,33,0,,2,2,,0,3,1,,2,6,4,,6,4,,14,14,0,,1,1,1,"1,2",x,x,A,,1.017,1.016,B1,B2,5,,,,,2,1
+1053,,3,2,,Deworming done by CAP,1,0,,5,Day 2,25,25,0,,2,1,,1,2,0,,2,6,5,,4,4,,10,10,0,,1,1,1,"1,2",x,x,A,,1.017,1.002,B2,B1,1,,,,,2,1
+1053,,2,3,Reversed line direction,Deworming done by CAP,0,1,,5,Day 2,21,21,0,,2,0,,2,2,0,,2,5,4,,2,2,,13,14,1,R,1,1,1,",5",x,x,A,,1.005,1.015,B2,B1,1,,,,,1,0
+1054,,3,3,,Deworming done by CAP,1,1,,5,Day 2,24,24,0,,2,0,,2,2,1,,1,5,4,,4,3,,20,20,0,,1,1,1,",5",x,x,A,m,1.01,1.013,A1,A2,5,,,,,1,0
+1054,,1,2,,Deworming done by CAP,0,0,,5,Day 2,29,29,0,,2,0,,2,3,0,,3,6,5,,2,2,,19,20,1,,1,1,1,",5",x,x,A,m,1,1.006,A1,A2,3,,,,,2,1
+1055,,4,6,,Deworming done by CAP,0,1,,5,Day 2,14,14,0,,1,0,,1,1,0,,1,6,4,,2,3,,14,14,0,,1,0,1,",1",x,x,A,m,1.006,1.015,A2,A1,3,,,,,1,0
+1055,,2,2,,Deworming done by CAP,0,0,,5,Day 2,25,26,1,,2,0,,2,2,0,,2,7,5,,4,3,,15,15,0,,1,1,1,"1,5",x,x,A,m,1.006,1.005,A2,A1,3,,,,,2,1
+1056,,1,6,"Selected 3 faces on thirst scale (1-3); Circled on study image(II) - score was 2,0; Reversed line direction",Deworming done by CAP,0,1,,5,Day 2,27,27,0,,0,1,,-1,0,0,X,0,6,4,,5,5,,13,13,0,R,1,1,1,",5",x,x,A,m,1.001,1.011,B1,B2,,,,,,1,0
+1056,,1,2,"Th: Chose both ""1"" and ""2"" for thirst scale",Deworming done by CAP,0,0,,5,Day 2,34,34,0,,3,1,,2,1,1,,0,1,2,,4,4,,7,8,1,,1,1,1,",5",x,x,A,m,1.001,1.004,B1,B2,1.5,,,,,2,1
+1057,,1,4,,Deworming done by CAP,0,1,,5,Day 2,27,27,0,,2,1,,1,3,0,,3,5,4,,3,3,,27,28,1,,2,1,1,"1,2,5",x,x,A,,1.002,1.014,B2,B1,1,,,,,1,0
+1057,,2,2,,Deworming done by CAP,0,0,,5,Day 2,32,32,0,,4,1,,3,3,0,,3,3,3,,2,2,,20,20,0,,2,1,1,"1,2,5",x,x,A,,1.007,1.003,B2,B1,4,,,,,2,1
+1058,,1,1,,Deworming done by CAP,0,0,,5,Day 2,36,37,1,,2,1,,1,3,0,,3,6,5,,4,4,,19,21,2,,1,0,1,",2",x,x,A,,1.001,1,A1,A2,5,,,,,2,1
+1058,,3,6,,Deworming done by CAP,1,1,,5,Day 2,30,30,0,,4,0,,4,3,0,,3,6,4,,2,3,,21,21,0,,1,0,0,,x,x,A,,1.012,1.017,A1,A2,5,,,,,1,0
+1059,,1,6,,Deworming done by CAP,0,1,,5,Day 2,29,29,0,,0,0,,0,1,0,,1,6,4,,5,4,,14,14,0,,1,1,1,",5",x,x,A,,1,1.014,A2,A1,3,,,,,1,0
+1059,,1,3,,Deworming done by CAP,0,0,,5,Day 2,29,29,0,,3,0,,3,3,2,,1,7,6,,3,3,,12,13,1,,1,1,1,"1,5",x,x,A,,1.003,1.004,A2,A1,4,,,,,2,1
+1060,,2,4,"Didn't do task (ID); Circled on study image(II) - score was 1,2; Often forgot to reverse digits (NR)",Deworming done by CAP,0,1,,5,Day 2,25,25,0,,0,0,X,0,0,0,X,0,5,4,,2,4,2,24,29,5,,1,1,1,",5",x,x,A,,1.005,1.015,B1,B2,1,,,,,1,0
+1060,,2,3,,Deworming done by CAP,0,1,,5,Day 2,30,30,0,,2,0,,2,3,0,,3,4,3,,3,3,,27,29,2,,1,1,1,"1,5",x,x,A,,1.006,1.012,B1,B2,5,,,,,2,1
+1061,,1,2,Didn't do task (ID),Deworming done by CAP,0,0,,5,Day 2,23,23,0,,0,0,X,0,2,0,,2,6,4,,5,4,,18,18,0,,1,1,1,",5",x,x,A,,1.002,1.001,B2,B1,1,,,,,1,0
+1061,,1,2,,Deworming done by CAP,0,0,,5,Day 2,30,30,0,,4,0,,4,4,0,,4,7,5,,5,4,,10,10,0,,1,1,1,",5",x,x,A,,1.006,1.002,B2,B1,1,,,,,2,1
+1062,,3,7,,Deworming done by CAP,0,1,,5,Day 2,28,28,0,,1,0,,1,1,1,,0,4,3,,2,3,,17,17,0,,0,1,1,"1,2,5",x,x,A,,1.005,1.015,A1,A2,1,,,,,1,0
+1062,,1,4,,Deworming done by CAP,0,0,,5,Day 2,33,33,0,,1,0,,1,3,0,,3,5,5,,5,4,,10,11,1,,0,1,1,",5",x,x,A,,1,1.009,A1,A2,1,,,,,2,1
+1063,,2,3,,Deworming done by CAP,0,1,,5,Day 2,20,20,0,,1,0,,1,2,0,,2,5,4,,4,3,,11,11,0,,2,0,1,"1,2",x,x,A,,1.009,1.016,A2,A1,2,,,,,1,0
+1063,,1,1,,Deworming done by CAP,0,0,,5,Day 2,29,29,0,,4,0,,4,5,0,,5,6,5,,4,3,,7,7,0,,2,0,1,",2",x,x,A,,1.004,1,A2,A1,3,,,,,2,1
+1151,16,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,30,30,0,,2,1,,1,1,0,,1,6,7,,3,3,,17,19,2,,1,1,1,5,Y,Y,B,F,1.012,1.022,B1,B2,4,103,26,102,19,2,0
+1151,16,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,18,18,0,,1,0,,1,2,0,,2,5,7,,4,3,,4,4,0,,1,1,0,,Y,Y,B,F,1.012,1.021,B1,B2,2,103,26,102,19,1,1
+1152,14,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,26,26,0,,3,0,,3,2,0,,2,7,5,,6,4,,29,29,0,,1,1,1,5,Y,Y,B,M,1.001,1.016,B2,B1,3,103,26,102,19,2,0
+1152,14,1,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,24,24,0,,1,0,,1,1,0,,1,5,4,,5,4,,15,15,0,,1,1,1,5,Y,Y,B,M,1.001,1.014,B2,B1,3,103,26,102,19,1,1
+1153,12,3,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,19,19,0,,5,0,,5,3,0,,3,6,5,,7,5,,27,29,2,,1,1,1,5,Y,Y,B,M,1.012,1.02,A1,A2,4,103,26,102,19,2,0
+1153,12,6,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,21,21,0,,3,0,,3,3,0,,3,5,4,,7,5,,8,9,1,,1,1,1,1,Y,Y,B,M,1.013,1.015,A1,A2,4,103,26,102,19,1,1
+1154,13,3,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,27,27,0,,2,0,,2,1,1,,0,5,4,,4,3,,5,6,1,,1,1,1,"2,6",Y,Y,B,M,1.015,1.012,A2,A1,5,103,26,102,19,1,1
+1154,13,5,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,32,32,0,,3,0,,3,3,0,,3,6,4,,2,2,,19,19,0,,1,1,1,"2,6",Y,Y,B,M,1.025,1.033,A2,A1,4,103,26,102,19,2,0
+1155,14,4,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,38,38,0,,4,0,,4,6,0,,6,12,7,,6,5,,26,28,2,,1,1,1,"1,5",Y,Y,B,F,1.015,1.016,B1,B2,5,103,26,102,19,2,0
+1155,14,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,31,31,0,,3,0,,3,6,0,,6,9,7,,7,5,,14,14,0,,1,1,1,"1,5",Y,Y,B,F,1.013,1.021,B1,B2,5,103,26,102,19,1,1
+1156,11,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,17,17,0,,4,0,,4,4,0,,4,4,4,,5,5,,3,3,0,,1,0,1,3,Y,Y,B,M,1.01,1.01,B2,B1,4,103,26,102,19,1,1
+1156,11,3,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,25,25,0,,6,0,,6,4,0,,4,6,4,,3,4,,17,17,0,,1,1,1,5,Y,Y,B,M,1.011,1.011,B2,B1,4,103,26,102,19,2,0
+1157,16,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,16,16,0,,2,0,,2,1,1,,0,4,3,,2,2,,15,15,0,,1,1,1,"1,5",Y,Y,B,M,1.001,1.012,A1,A2,5,103,26,102,19,2,0
+1157,16,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,13,13,0,,2,0,,2,4,1,,3,4,3,,4,3,,2,2,0,,1,1,1,5,Y,Y,B,M,1.005,1.006,A1,A2,3,103,26,102,19,1,1
+1158,14,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,29,29,0,,5,0,,5,5,0,,5,6,5,,3,3,,21,23,2,,1,1,1,"1,2,5",Y,Y,B,F,1.011,1.013,A2,A1,3,103,26,102,19,2,0
+1158,14,6,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,6,Day 1,23,23,0,,2,1,,1,2,0,,2,5,5,,5,4,,1,1,0,,1,1,1,"1,2,5",Y,Y,B,F,1.013,1.008,A2,A1,2,103,26,102,19,1,1
+1159,12,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,26,26,0,,3,1,,2,4,0,,4,8,5,,2,2,,15,15,0,,1,1,1,5,Y,Y,B,M,1.003,1.012,B1,B2,5,103,26,102,19,2,0
+1159,12,4,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,21,21,0,,2,0,,2,2,2,,0,5,4,,2,2,,7,7,0,,1,1,0,,Y,Y,B,M,1.017,1.018,B1,B2,1,103,26,102,19,1,1
+1160,13,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,19,19,0,,4,0,,4,4,0,,4,8,5,,5,4,,16,16,0,,1,1,1,5,Y,Y,B,M,1.004,1.015,B2,B1,3,103,26,102,19,2,0
+1160,13,2,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,15,15,0,,2,1,,1,3,0,,3,6,4,,3,3,,8,8,0,,1,1,1,5,Y,Y,B,M,1.004,1.013,B2,B1,2,103,26,102,19,1,1
+1161,13,1,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,23,25,2,,2,0,,2,4,1,,3,4,4,,6,4,,7,7,0,,1,1,1,5,Y,Y,B,F,1.003,1.004,A1,A2,3,103,26,102,19,1,1
+1161,13,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,28,28,0,,2,0,,2,5,0,,5,5,4,,2,2,,15,15,0,,1,1,1,"5,6",Y,Y,B,F,1.004,1.011,A1,A2,4,103,26,102,19,2,0
+1162,12,1,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,19,19,0,,4,0,,4,3,0,,3,8,5,,5,5,,13,13,0,,1,1,1,"2,5",Y,Y,B,M,1.001,1.021,A2,A1,5,103,26,102,19,2,0
+1162,12,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,6,Day 1,19,19,0,,3,0,,3,2,1,,1,6,6,,4,3,,8,8,0,,1,1,1,"3,5",Y,Y,B,M,1.012,1.008,A2,A1,2,103,26,102,19,1,1
+1163,12,6,1,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,6,Day 1,14,14,0,,2,1,,1,1,0,,1,8,6,,6,5,,13,14,1,,1,1,1,"2,5",Y,Y,B,M,1.013,1.002,B1,B2,5,103,26,102,19,1,1
+1163,12,4,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,13,13,0,,1,0,,1,2,0,,2,8,5,,7,5,,19,20,1,,1,1,1,"2,5",Y,Y,B,M,1.016,1.022,B1,B2,5,103,26,102,19,2,0
+1164,13,2,1,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,6,Day 1,30,30,0,,6,0,,6,4,0,,4,6,7,,6,5,,23,24,1,,1,1,1,"1,5",Y,Y,B,M,1.011,1.003,B2,B1,4,103,26,102,19,2,0
+1164,13,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,26,26,0,,2,0,,2,3,0,,3,4,4,,5,4,,3,3,0,,1,1,1,5,Y,Y,B,M,1.007,1.009,B2,B1,3,103,26,102,19,1,1
+1165,14,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,27,27,0,,1,0,,1,1,0,,1,5,4,,4,3,,26,29,3,,1,1,1,"2,5",Y,Y,B,F,1.001,1.012,A1,A2,4,103,26,102,19,2,0
+1165,14,2,2,IIC: CIRCLED ON PAGE 8 AS WELL,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,25,25,0,,2,0,,2,4,0,X,4,4,4,,6,4,,8,9,1,,1,1,1,5,Y,Y,B,F,1.004,1.006,A1,A2,5,103,26,102,19,1,1
+1166,11,4,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,6,Day 1,22,22,0,,2,0,,2,3,1,,2,7,5,,5,4,,16,17,1,,1,1,1,5,Y,Y,B,M,1.019,1.009,A2,A1,3,103,26,102,19,1,1
+1166,11,3,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,25,25,0,,3,0,,3,3,0,,3,5,4,,2,2,,26,27,1,,1,1,1,"1,5",Y,Y,B,M,1.01,1.017,A2,A1,4,103,26,102,19,2,0
+1167,14,5,5,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,26,26,0,,3,1,,2,5,1,,4,8,7,,4,4,,17,17,0,,1,1,1,"1,5",Y,Y,B,M,1.011,1.015,B1,B2,3,103,26,102,19,2,0
+1167,14,7,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,14,14,0,,5,0,,5,5,0,,5,5,4,,5,4,,7,7,0,,1,1,1,2,Y,Y,B,M,1.011,1.016,B1,B2,4,103,26,102,19,1,1
+1168,11,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,24,24,0,,3,1,,2,2,0,,2,6,5,,6,5,,15,16,1,,1,1,1,5,Y,Y,B,M,1.007,1.015,B2,B1,5,103,26,102,19,2,0
+1168,11,7,5,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,14,14,0,,2,0,,2,2,0,,2,5,4,,4,3,,8,8,0,,1,1,1,"1,5",Y,Y,B,M,1.02,1.018,B2,B1,3,103,26,102,19,1,1
+1169,15,1,4,IDC AND IIC: CIRCLE NEAR NOT AROUND,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,28,28,0,,3,0,X,3,4,1,X,3,5,7,,1,2,,22,28,6,,1,1,1,"1,5",Y,Y,B,M,1.001,1.018,A1,A2,4,103,26,102,19,2,0
+1169,15,1,2,"IDC/IIC: CIRCLED NEAR, NOT AROUND DIFFERENCES","There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,2,11,9,,2,0,X,2,5,2,X,3,5,4,,1,2,,19,24,5,R,1,1,1,5,Y,Y,B,M,1.002,1.02,A1,A2,5,103,26,102,19,1,1
+1170,13,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,28,28,0,,3,0,,3,3,0,,3,7,5,,2,2,,12,12,0,,1,1,1,5,Y,Y,B,M,1.001,1.016,A2,A1,4,103,26,102,19,2,0
+1170,13,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,23,23,0,,2,0,,2,2,0,,2,5,4,,4,3,,3,3,0,,1,0,0,,Y,Y,B,M,1.007,1.02,A2,A1,3,103,26,102,19,1,1
+1171,14,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,N,6,Day 1,20,20,0,,2,0,,2,2,1,,1,5,4,,5,4,,18,18,0,,1,1,1,5,Y,Y,B,M,1.016,1.006,B1,B2,2,103,26,102,19,2,0
+1171,14,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,N,6,Day 1,19,19,0,,2,0,,2,1,2,,-1,5,4,,5,5,,8,8,0,,1,1,1,5,Y,Y,B,M,1.01,1.008,B1,B2,4,103,26,102,19,1,1
+1172,13,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,21,22,1,,6,0,,6,4,0,,4,6,4,,2,2,,9,9,0,,1,1,1,"5,6",Y,Y,B,F,1.017,1.011,B2,B1,3,103,26,102,19,2,0
+1172,13,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,N,6,Day 1,17,17,0,,2,0,,2,2,2,,0,6,4,,4,3,,5,5,0,,1,1,1,"1,5",Y,Y,B,F,1.006,1.008,B2,B1,3,103,26,102,19,1,1
+1173,14,3,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,6,Day 1,10,10,0,,2,0,,2,4,1,,3,6,4,,6,5,,13,14,1,,1,1,1,"1,5",Y,Y,B,M,1.011,1.015,A1,A2,2,103,26,102,19,1,1
+1173,14,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,27,27,0,,2,1,,1,2,1,,1,5,4,,3,4,,23,29,6,,1,1,1,"1,5",Y,Y,B,M,1.008,1.012,A1,A2,3,103,26,102,19,2,0
+1174,14,1,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,18,18,0,,2,0,,2,3,0,,3,6,4,,4,3,,8,11,3,,1,1,1,"5,6",Y,Y,B,F,1.001,1.001,A2,A1,4,103,26,102,19,1,1
+1174,14,2,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,26,26,0,,2,0,,2,2,0,,2,5,4,,2,2,,27,29,2,,1,1,1,"1,5,6",Y,Y,B,F,1.006,1.003,A2,A1,5,103,26,102,19,2,0
+1175,14,1,3,IIC: CIRCLED ON P8,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,18,18,0,,3,1,,2,0,0,X,0,5,4,,4,3,,21,25,4,,1,1,1,5,Y,Y,B,M,1.001,1.019,B1,B2,4,103,26,102,19,2,0
+1175,14,1,1,IIC: CIRCLED ON PAGE 8 AS WELL,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,N,6,Day 1,14,14,0,,3,1,,2,2,0,X,2,5,4,,4,3,,27,29,2,,1,1,1,5,Y,Y,B,M,1.005,1.004,B1,B2,1,103,26,102,19,1,1
+1176,13,1,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,27,27,0,,2,1,,1,3,0,,3,7,5,,3,3,,22,24,2,,1,1,1,"2,5",Y,Y,B,M,1.001,1.019,B2,B1,5,103,26,102,19,2,0
+1176,13,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,6,Day 1,17,17,0,,1,1,,0,2,0,,2,5,4,,5,4,,8,9,1,,1,1,1,5,Y,Y,B,M,1.004,1.006,B2,B1,3,103,26,102,19,1,1
+1177,11,1,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,37,37,0,,3,0,,3,5,0,,5,6,4,,4,3,,25,26,1,,2,1,1,5,Y,Y,B,M,1.001,1.022,A1,A2,2,103,26,102,19,2,0
+1177,11,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,28,29,1,,2,0,,2,3,0,,3,6,4,,4,3,,8,8,0,,2,1,1,5,Y,Y,B,M,1.006,1.019,A1,A2,2,103,26,102,19,1,1
+1178,16,6,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,6,Day 1,21,21,0,,1,0,,1,2,2,,0,4,3,,3,3,,15,15,0,,1,1,1,5,Y,Y,B,M,1.016,1.022,A2,A1,2,103,26,102,19,2,0
+1178,16,1,7,IDC: CIRCLED ENTIRE ELEPHANT,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,16,16,0,,0,1,X,-1,0,0,,0,5,4,,3,4,,13,13,0,,1,1,1,5,Y,Y,B,M,1.001,1.032,A2,A1,3,103,26,102,19,1,1
+1179,12,1,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,6,Day 1,27,27,0,,3,1,,2,4,0,,4,4,3,,5,5,,21,24,3,,1,1,1,"1,5",Y,Y,B,M,1.004,1.017,B1,B2,5,103,26,102,19,2,0
+1179,12,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,6,Day 1,20,20,0,,1,2,,-1,3,0,,3,4,3,,3,3,,4,4,0,,1,1,1,"1,5",Y,Y,B,M,1.01,1.008,B1,B2,3,103,26,102,19,1,1
+1180,15,3,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,30,30,0,,3,1,,2,4,0,,4,7,6,,4,5,,29,29,0,,1,1,1,"1,5",Y,Y,B,F,1.008,1.012,B2,B1,4,103,26,102,19,2,0
+1180,15,2,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,6,Day 1,17,17,0,,3,0,,3,6,0,,6,8,7,,3,3,,11,12,1,,1,1,1,5,Y,Y,B,F,1.004,1.018,B2,B1,5,103,26,102,19,1,1
+1181,11,2,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,16,16,0,,1,0,,1,3,0,,3,5,4,,4,3,,3,3,0,R,1,1,1,"2,5",Y,Y,B,M,1.003,1.017,A2,A1,5,103,26,102,19,1,1
+1181,11,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,21,21,0,,1,0,,1,1,0,,1,5,4,,5,4,,17,22,5,,1,1,1,"1,5",Y,Y,B,M,1.006,1.016,A2,A1,5,103,26,102,19,2,0
+1182,11,1,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,8,8,0,,0,0,,0,0,0,,0,2,2,,1,2,,9,9,0,,1,1,1,5,Y,Y,B,F,1.001,1.019,B1,B2,1,103,26,102,19,1,1
+1182,11,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,23,25,2,,2,1,,1,1,0,,1,4,3,,1,2,,11,12,1,,1,1,1,5,Y,Y,B,F,1.005,1.018,B1,B2,3,103,26,102,19,2,0
+1183,12,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,13,13,0,,1,0,,1,1,0,,1,2,3,,2,3,,22,23,1,,1,1,1,"1,5",Y,Y,B,M,1.005,1.004,B2,B1,1,103,26,102,19,1,1
+1183,12,2,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,20,20,0,,0,1,,-1,1,0,,1,2,3,,2,4,,21,22,1,,1,1,1,"1,2,5",Y,Y,B,M,1.005,1.003,B2,B1,1,103,26,102,19,2,0
+1184,9,4,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,20,20,0,,1,1,,0,3,0,,3,6,4,,3,3,,16,20,4,,1,1,1,"1,2,5",Y,Y,B,M,1.024,1.012,A1,A2,5,103,26,102,19,2,0
+1184,9,1,1,LTM:DREW LINE OUTSIDE. THIRST: NO MARK,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,13,13,0,,1,0,,1,1,0,,1,4,3,,2,2,,,,,X,1,1,1,"1,2,5",Y,Y,B,M,1.002,1.002,A1,A2,,103,26,102,19,1,1
+1185,12,4,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,15,15,0,,2,0,,2,3,0,,3,7,7,,5,4,,28,29,1,,1,1,1,1,Y,Y,B,M,1.014,1.017,A2,A1,4,103,26,102,19,1,1
+1185,12,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,30,30,0,,3,1,,2,2,2,,0,7,5,,4,4,,21,25,4,,1,1,1,"1,5",Y,Y,B,M,1.003,1.01,A2,A1,4,103,26,102,19,2,0
+1186,9,2,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,20,20,0,,3,0,,3,1,0,,1,6,5,,2,2,,17,18,1,,1,1,1,5,Y,Y,B,F,1.004,1.001,B1,B2,4,103,26,102,19,1,1
+1186,9,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,29,29,0,,1,0,,1,2,0,,2,5,4,,4,3,,16,20,4,,1,1,1,5,Y,Y,B,F,1.007,1.02,B1,B2,4,103,26,102,19,2,0
+1187,12,4,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,15,15,0,,2,0,,2,2,0,,2,7,5,,7,5,,21,22,1,,1,1,1,"1,5",Y,Y,B,M,1.01,1.024,B2,B1,5,103,26,102,19,1,1
+1187,12,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,29,29,0,,3,0,,3,2,0,,2,7,5,,6,4,,19,19,0,,1,1,1,"1,5",Y,Y,B,M,1.008,1.013,B2,B1,4,103,26,102,19,2,0
+1188,12,4,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,5,Day 1,19,19,0,,2,0,,2,0,1,,-1,5,4,,4,3,,18,23,5,,1,1,1,"1,5",Y,Y,B,M,1.019,1.01,A1,A2,1,103,26,102,19,1,1
+1188,12,3,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,5,Day 1,34,34,0,,2,1,,1,2,0,,2,5,5,,2,3,,21,29,8,,1,1,1,"1,5",Y,Y,B,M,1.014,1.018,A1,A2,5,103,26,102,19,2,0
+1189,10,1,1,LTM:DREW LINE OUTSIDE,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,13,13,0,,2,0,,2,3,1,,2,7,5,,4,3,,,,,X,1,1,1,"2,5",Y,Y,B,M,1.001,1.003,A2,A1,3,103,26,102,19,1,1
+1189,10,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,21,21,0,,4,0,,4,2,2,,0,7,5,,4,3,,24,29,5,,1,1,1,5,Y,Y,B,M,1.001,1.009,A2,A1,4,103,26,102,19,2,0
+1190,10,1,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,23,23,0,,1,0,,1,2,0,,2,4,3,,4,3,,16,28,12,,1,1,1,5,Y,Y,B,M,1.002,1.009,B1,B2,1,103,26,102,19,1,1
+1190,10,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,24,24,0,,3,0,,3,1,0,,1,4,3,,4,4,,9,13,4,,1,1,1,"1,2,5",Y,Y,B,M,1.001,1.009,B1,B2,5,103,26,102,19,2,0
+1191,11,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,31,31,0,,4,1,,3,3,2,,1,6,4,,3,3,,24,29,5,,1,1,1,"1,5",Y,Y,B,F,1.007,1.017,B2,B1,1,103,26,102,19,2,0
+1191,11,1,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,28,28,0,,3,3,,0,1,1,,0,6,4,,5,4,,11,14,3,,1,1,1,"1,5",Y,Y,B,F,1.003,1.003,B2,B1,5,103,26,102,19,1,1
+1192,11,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,29,29,0,,1,1,,0,2,0,,2,6,4,,3,3,,24,29,5,,1,1,1,"1,5",Y,Y,B,M,1.008,1.002,A1,A2,5,103,26,102,19,2,0
+1192,11,2,6,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,22,22,0,,1,1,,0,1,1,,0,4,3,,2,2,,25,29,4,,1,1,1,2,Y,Y,B,M,1.003,1.022,A1,A2,5,103,26,102,19,1,1
+1193,13,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,27,28,1,,4,0,,4,3,0,,3,6,5,,5,4,,25,28,3,,1,1,1,"1,5",Y,Y,B,F,1.001,1.019,A2,A1,5,103,26,102,19,2,0
+1193,13,4,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,34,34,0,,0,0,,0,3,0,,3,5,5,,2,2,,7,7,0,,1,1,1,5,Y,Y,B,F,1.011,1.017,A2,A1,5,103,26,102,19,1,1
+1194,9,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,28,28,0,,2,0,,2,3,0,,3,4,3,,4,3,,18,22,4,,1,1,1,"1,2,5",Y,Y,B,M,1.003,1.011,B1,B2,1,103,26,102,19,2,0
+1194,9,4,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,5,Day 1,19,19,0,,2,0,,2,1,0,,1,6,4,,5,4,,14,16,2,,1,1,1,"1,2,5",Y,Y,B,M,1.02,1.008,B1,B2,1,103,26,102,19,1,1
+1195,11,3,1,,"There is water every day, but not always all day (don't refill in the afternoon)",1,0,Y,5,Day 1,15,15,0,,1,0,,1,0,0,,0,6,4,,4,3,,4,6,2,,1,1,1,"1,5",Y,Y,B,F,1.011,1.007,B2,B1,3,103,26,102,19,1,1
+1195,11,2,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,17,17,0,,0,0,,0,0,0,,0,5,4,,4,3,,7,10,3,,1,1,0,,Y,Y,B,F,1.007,1.009,B2,B1,2,103,26,102,19,2,0
+1196,9,5,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,20,20,0,,0,1,,-1,2,0,,2,4,3,,3,4,,11,15,4,,1,1,1,5,Y,Y,B,F,1.015,1.014,A1,A2,5,103,26,102,19,2,0
+1196,9,7,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,17,17,0,,0,0,,0,2,1,,1,6,7,,3,4,,8,10,2,,1,1,1,5,Y,Y,B,F,1.016,1.026,A1,A2,4,103,26,102,19,1,1
+1197,11,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,15,15,0,,0,0,,0,1,0,,1,4,3,,2,2,,18,28,10,,1,1,1,5,Y,Y,B,F,1.003,1.015,A2,A1,1,103,26,102,19,1,1
+1197,11,1,2,LTM: didn't draw anything,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,19,19,0,,1,0,,1,0,1,,-1,7,5,,2,2,,,,,X,1,1,1,5,Y,Y,B,F,1.001,1.011,A2,A1,1,103,26,102,19,2,0
+1198,12,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,5,Day 1,14,14,0,,0,0,,0,3,0,,3,6,5,,2,2,,17,18,1,,1,1,1,1,Y,Y,B,M,1.001,1.017,B1,B2,5,103,26,102,19,1,1
+1198,12,3,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,5,Day 1,16,16,0,,2,0,,2,4,0,,4,6,4,,1,2,,15,16,1,,1,1,1,"1,5",Y,Y,B,M,1.011,1.022,B1,B2,4,103,26,102,19,2,0
+1199,10,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,21,21,0,,2,0,,2,2,0,,2,6,4,,5,4,,5,5,0,,1,1,1,5,Y,Y,B,M,1.001,1.015,B2,B1,5,103,26,102,19,1,1
+1199,10,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,33,33,0,,3,0,,3,3,0,,3,5,5,,4,4,,8,9,1,,1,1,1,"1,5",Y,Y,B,M,1.006,1.014,B2,B1,5,103,26,102,19,2,0
+1200,10,3,4,"IDC/IIC: Pupil circled near differences, not around them","There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,20,20,0,,2,0,X,2,4,0,X,4,6,4,,3,3,,27,29,2,,1,1,1,5,Y,Y,B,M,1.013,1.021,A1,A2,4,103,26,102,19,2,0
+1200,10,2,1,IIC: CIRCLED ON PAGE 8,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,9,9,0,,2,0,,2,0,0,X,0,7,5,,3,3,,7,7,0,,1,1,1,1,Y,Y,B,M,1.014,1.013,A1,A2,4,103,26,102,19,1,1
+1201,12,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,N,5,Day 1,25,25,0,,0,0,,0,0,0,,0,5,4,,2,2,,22,29,7,,1,1,1,"1,2,5",Y,Y,B,F,1.008,1.013,A2,A1,5,103,26,102,19,2,0
+1201,12,1,1,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,N,5,Day 1,12,12,0,,0,0,,0,1,0,,1,3,3,,2,2,,28,29,1,,1,1,1,"1,5",Y,Y,B,F,1.001,1.004,A2,A1,4,103,26,102,19,1,1
+1202,11,6,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,N,5,Day 1,27,27,0,,0,1,,-1,0,0,,0,6,4,,4,3,,12,12,0,,1,1,1,"1,5",Y,Y,B,F,1.019,1.015,B1,B2,1,103,26,102,19,1,1
+1202,11,1,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,N,5,Day 1,32,32,0,,1,0,,1,0,0,,0,7,5,,3,3,,12,13,1,,1,1,1,"1,5",Y,Y,B,F,1.002,1.005,B1,B2,5,103,26,102,19,2,0
+1203,12,7,7,LTM: DREW VERY SHORT LINE,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,13,14,1,,0,1,,-1,1,0,,1,4,3,,2,2,,0,0,0,,1,1,1,2,Y,Y,B,M,1.022,1.025,B2,B1,1,103,26,102,19,1,1
+1203,12,4,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,22,22,0,,1,0,,1,0,2,,-2,5,4,,2,2,,17,26,9,,1,1,1,"1,5",Y,Y,B,M,1.019,1.021,B2,B1,1,103,26,102,19,2,0
+1204,11,3,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,25,25,0,,3,2,,1,2,1,,1,2,3,,2,3,,23,29,6,,1,1,1,"2,5",Y,Y,B,M,1.011,1.015,A1,A2,1,103,26,102,19,2,0
+1204,11,1,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,25,25,0,,1,3,,-2,1,1,,0,3,3,,4,4,,23,28,5,,1,1,1,5,Y,Y,B,M,1.001,1.01,A1,A2,1,103,26,102,19,1,1
+1205,11,4,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,35,35,0,,1,2,,-1,1,2,,-1,5,4,,3,3,,19,28,9,,1,1,1,"5,6",Y,Y,B,M,1.016,1.022,A2,A1,3,103,26,102,19,2,0
+1205,11,3,6,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,17,17,0,,2,1,,1,1,1,,0,7,5,,3,3,,6,6,0,,1,1,1,5,Y,Y,B,M,1.016,1.025,A2,A1,1,103,26,102,19,1,1
+1206,12,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,23,23,0,,2,0,,2,2,0,,2,6,5,,2,2,,14,16,2,,1,1,1,"1,2,5",Y,Y,B,M,1.005,1.019,B1,B2,1,103,26,102,19,2,0
+1206,12,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",0,0,Y,5,Day 1,18,18,0,,1,0,,1,1,0,,1,5,4,,3,3,,26,29,3,,1,1,1,"1,2,5",Y,Y,B,M,1.006,1.004,B1,B2,1,103,26,102,19,1,1
+1207,12,3,3,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,25,25,0,,1,0,,1,3,0,,3,5,4,,5,5,,12,15,3,,1,1,1,"1,5",Y,Y,B,M,1.016,1.017,B2,B1,4,103,26,102,19,2,0
+1207,12,2,4,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,17,18,1,,3,0,,3,2,0,,2,5,4,,4,3,,12,14,2,,1,1,1,"1,5",Y,Y,B,M,1.014,1.012,B2,B1,3,103,26,102,19,1,1
+1208,10,3,5,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,22,22,0,,0,0,,0,0,1,,-1,6,4,,6,4,,8,9,1,,1,1,1,"1,5",Y,Y,B,M,1.008,1.016,A1,A2,1,103,26,102,19,1,1
+1208,10,1,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,25,25,0,,0,1,,-1,3,0,,3,6,4,,6,4,,17,18,1,,1,1,1,5,Y,Y,B,M,1.002,1.02,A1,A2,3,103,26,102,19,2,0
+1209,11,1,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,33,33,0,,1,1,,0,2,0,,2,6,4,,2,4,,19,21,2,,1,1,1,"2,5",Y,Y,B,M,1.001,1.018,A2,A1,5,103,26,102,19,2,0
+1209,11,2,3,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,17,17,0,,1,0,,1,2,1,,1,4,3,,3,3,,6,8,2,,1,1,1,"2,5",Y,Y,B,M,1.004,1.011,A2,A1,5,103,26,102,19,1,1
+1210,12,3,2,,"There is water every day, but not always all day (don't refill in the afternoon)",1,1,Y,5,Day 1,25,25,0,,2,0,,2,2,1,,1,4,3,,2,3,,22,28,6,,1,1,1,5,Y,Y,B,M,1.011,1.01,B1,B2,5,103,26,102,19,2,0
+1210,12,3,4,,"There is water every day, but not always all day (don't refill in the afternoon)",0,1,Y,5,Day 1,14,14,0,,2,0,,2,0,1,,-1,2,2,,3,4,,6,8,2,R,1,1,1,"1,5",Y,Y,B,M,1.009,1.016,B1,B2,4,103,26,102,19,1,1
